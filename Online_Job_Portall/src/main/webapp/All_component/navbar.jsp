@@ -25,6 +25,6 @@
        <i class="fa-sharp fa-solid fa-right-to-bracket"></i>Sign Up</a>
       
   </form>
-    </form>
+    
   </div>
 </nav>

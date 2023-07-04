@@ -8,12 +8,12 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-<%@include file="All_component/all_css.jsp" %>
+<%@ include file="All_component/all_css.jsp" %>
 <style type="text/css">
 .back-img{
 background: url("img/p12.jpg");
-width:100px;
-height:80vh;
+width:500px;
+height:500vh;
 background-repeat: no-repeat;
 backgrond-size:cover;
 
@@ -38,7 +38,7 @@ backgrond-size:cover;
 </div> 
 
 
-<%@include file="All_component/footer.jsp" %>
+<%@ include file="All_component/footer.jsp" %>
 
 </body>
 </html>
